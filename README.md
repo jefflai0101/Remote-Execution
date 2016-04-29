@@ -8,13 +8,16 @@ It's a by-product in the process of developing a Hong Kong Stock Market Anaylsis
 
 ##How to use
 
-1)  Specify the settings for your environment.Set the dropbox path on the dedicated computer, at line 12 of 'Listener.py'.
+1)  Tune the settings for your environment
 
 Provide local path for your dropbox account, the location where your will keep your **command.txt**
+**Listener.py** line 12
 
     dbPath = 'C:\Dropbox\Remote'
 
 **You may also want to set a different listening time interval**
+
+**Listener.py** line 13
 
     checkInterval = 30
 
