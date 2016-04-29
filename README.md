@@ -11,6 +11,7 @@ It's a by-product in the process of developing a Hong Kong Stock Market Anaylsis
 1)  Tune the settings for your environment
 
 Provide local path for your dropbox account, the location where your will keep your **command.txt**
+
 **Listener.py** line 12
 
     dbPath = 'C:\Dropbox\Remote'
